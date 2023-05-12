@@ -170,7 +170,7 @@ class _MapPageState extends State<MapPage> {
 
   void setPolylines() async {
     PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-      "AIzaSyBEEPleYte4pjX3tIy76gqW62mws5TlRgk",
+      "TU-API-KEY",
       PointLatLng(
         currentLocation.latitude,
         currentLocation.longitude
