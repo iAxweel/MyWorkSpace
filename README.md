@@ -2,14 +2,6 @@
 
 MyWorkSpace
 
-
-Autores del proyecto:
-
-Gutiérrez Martínez Josué Gerardo
-Romero Hernández Andrea
-Nuñez Díaz Adrián
-Parámo Mascote Jennifer
-
 Sobre el proyecto:
 
 MyWorkSpace es una aplicación para 2 tipos de usuarios, un usuario que busca algún tipo de servicio
